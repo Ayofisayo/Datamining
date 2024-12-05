@@ -22,7 +22,7 @@ Dependencies:
 Python 3.x
 NumPy
 scikit-learn
-Open Problem2_FA24.ipynb in a Jupyter Notebook or any compatible IDE (e.g., Google Colab).
+Open Problem1_FA24.ipynb in a Jupyter Notebook or any compatible IDE (e.g., Google Colab).
 Run all cells sequentially.
 
 Expected Output: Displays accuracy percentages for both Gaussian and Polynomial kernels for all classes.
